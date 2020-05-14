@@ -8,8 +8,11 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="190dp"
-        android:layout_height="226dp"
+        android:layout_width="0dp"
+        android:layout_height="118dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
         android:contentDescription="@string/placeholder"
         android:scaleType="centerCrop"
         android:src="@drawable/singapore"
